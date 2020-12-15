@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ItemView">
+
+        <attr name="itemText" format="string|reference"/>
+
+        <attr name="itemImage" format="reference"/>
+
+        <attr name="itemColor" format="color"/>
+
+        <attr name="itemTextColor" format="color"/>
+
+    </declare-styleable>
+</resources>
